@@ -1,4 +1,5 @@
- ["my-site.core"
+ ["blog"
+  "my-site.core"
   "golite-compiler"
   "tic-tac-toe"
   "goodreads_bulk_ratings"
